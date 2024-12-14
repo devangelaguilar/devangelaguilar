@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ángel Aguilar 👋
 
-<!--
-**devangelaguilar/devangelaguilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 💻 Software Developer
+- 🌱 Always learning and growing
+- 🔭 Working on exciting projects
+- 📫 Reach me: [Your preferred contact method]
 
-Here are some ideas to get you started:
+## Tech Stack
+[List the technologies you work with]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devangelaguilar&show_icons=true&theme=dark)
+
+## Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devangelaguilar&layout=compact&theme=dark)
+
+[Feel free to customize this template by adding your specific skills, projects, and contact information]
