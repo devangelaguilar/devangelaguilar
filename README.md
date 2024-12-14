@@ -14,5 +14,3 @@
 
 ## Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devangelaguilar&layout=compact&theme=dark)
-
-[Feel free to customize this template by adding your specific skills, projects, and contact information]
